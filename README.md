@@ -1,7 +1,7 @@
 <h1 align="center">Tôi là Nguyễn Minh Nhật 🔥 !</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=JoshuaThadi" alt="Profile Views" />
+  <img src="Blank and Beige Modern Inspirational Moodboard Photo Collage Desktop Wallpaper.jpg" />
 </p>
 
 ## 🙏 Xin Chào, tôi là Nguyễn Minh Nhật
