@@ -4,11 +4,11 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=JoshuaThadi" alt="Profile Views" />
 </p>
 
-## 🙏 Namaste, I'm Joshua Thadi
+## 🙏 Xin Chào, tôi là Nguyễn Minh Nhật
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Về tôi
 
 💡 **Began the Journey with Software Development in ASP.NET MVC**
 
@@ -18,10 +18,6 @@
 - 💬 Ask me about Microsoft .Net Framework, Full Stack Development, Python.
 - 🤖 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.
 - 🎯 I only like perfection.
-
-[![Pinterest](https://img.shields.io/badge/Pinterest-red?logo=pinterest)](https://pinterest.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
 
 ---
 
