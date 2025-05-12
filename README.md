@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Tôi là Nguyễn Minh Nhật 🔥 !</h1>
 
-<!--
-**nguyenminhnhat03/nguyenminhnhat03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=JoshuaThadi" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+## 🙏 Namaste, I'm Joshua Thadi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+💡 **Began the Journey with Software Development in ASP.NET MVC**
+
+- I work on Front-end development and web designing when I am bored while focusing on Data Science and AI/ML.
+- 🎓 I am currently pursuing a degree in Computer Science.
+- 🧠 I worked on .Net Frameworks and Hands-on experience in Full Stack.
+- 💬 Ask me about Microsoft .Net Framework, Full Stack Development, Python.
+- 🤖 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.
+- 🎯 I only like perfection.
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-red?logo=pinterest)](https://pinterest.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
+
+---
+
+## 🧰 Languages & tools I Have placed My Hands On
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,css,html,js,ts,react,nextjs,vue,angular,python,c,cpp,cs,dotnet,java,spring,nodejs,mongodb,mysql,postgres,firebase,azure,github,git,visualstudio,vscode,androidstudio" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+### MASTERSJUDAH's GitHub Stats
+
+- ⭐ Total Stars Earned: 14  
+- 🍴 Total Forks: 2  
+- 🔥 Total Commits (2023): 397  
+- 💬 Total PRs: 2  
+- 📁 Total Repos: 6  
+- 📅 Contributed to (last year): 8
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&layout=compact&theme=radical)
+
+---
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)
+
+---
+
+## 🚀 Top Contributed Repo
+
